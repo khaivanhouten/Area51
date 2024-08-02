@@ -1,77 +1,52 @@
-# 🛸 Area 51 Ezcorp Official
+# khaivanhouten
 
-![Area 51 Banner](https://yourimageurl.com/banner.png)
+![Developer Badge](https://img.shields.io/badge/developer-discord-green)
 
-Selamat datang di repositori resmi **Area 51 Ezcorp Official**! 🌌
+Hai! Nama saya Khaivanhouten, seorang developer bot Discord dengan username Discord `khaivanhoutenn#0000`. Saya adalah salah satu developer utama di server [EZCorp](https://discord.gg/ezcorp). Berikut ini adalah beberapa proyek bot yang telah saya kembangkan:
 
-## 🚀 Tentang Proyek Ini
+## Bot EZCorp Official
 
-Area 51 Ezcorp adalah proyek revolusioner yang bertujuan untuk mengungkap misteri di balik teknologi mutakhir dan penelitian alien di Area 51. Kami adalah tim yang berdedikasi untuk mengeksplorasi batasan ilmu pengetahuan dan teknologi.
+[![EZCorp Official](https://via.placeholder.com/150)](https://discord.gg/ezcorp)
 
-## 🧪 Fitur-Fitur
+Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai berikut:
 
-- **Pengenalan Alien**: Identifikasi spesies alien menggunakan teknik machine learning.
-- **Teknologi Terbaru**: Menjelajahi dan memanfaatkan teknologi canggih yang digunakan di Area 51.
-- **Eksperimen Rahasia**: Dokumentasi lengkap dari eksperimen-eksperimen rahasia.
-- **Keamanan Tingkat Tinggi**: Implementasi protokol keamanan tingkat tinggi untuk melindungi data sensitif.
+### Fitur
+- **Giveaway**:
+  - Giveaway Flash
+  - Giveaway Split Steal
+  - Giveaway Acak
 
-## 📸 Cuplikan Gambar
+- **Mini Games**:
+  - Qiuqiu (main rame-rame)
+  - Blackjack (main rame-rame)
+  - Gaplek (main rame-rame)
+  - Ular Tangga (main rame-rame)
+  - Cerdas Cermat (main rame-rame)
+  - Cari Angka (main rame-rame)
+  - Tebak Pikiran (solo)
+  - Hunger Games (main rame-rame)
+  - Sambung Kata (main rame-rame)
 
-### Struktur Proyek
-![Struktur Proyek](https://yourimageurl.com/struktur.png)
+- **Moderator**:
+  - Kick / Ban
+  - Dan masih banyak lagi!
 
-### Dashboard
-![Dashboard](https://yourimageurl.com/dashboard.png)
+## Bot Arace
 
-### Eksperimen
-![Eksperimen](https://yourimageurl.com/eksperimen.png)
+[![Arace](https://via.placeholder.com/150)](https://discord.gg/ezcorp)
 
-## 💾 Instalasi
+Bot ini khusus dikembangkan untuk permainan balapan hewan. Berikut ini contoh gambarnya:
 
-Langkah-langkah untuk menginstal dan menjalankan proyek ini secara lokal:
+![Racing Example](https://via.placeholder.com/250)
 
-1. Clone repositori ini
-   ```sh
-   git clone https://github.com/yourusername/area51-ezcorp.git
-   ```
-2. Masuk ke direktori proyek
-   ```sh
-   cd area51-ezcorp
-   ```
-3. Instal dependensi
-   ```sh
-   npm install
-   ```
-4. Jalankan aplikasi
-   ```sh
-   npm start
-   ```
+## Bergabung dengan Kami
 
-## 📚 Dokumentasi
+Jangan ragu untuk bergabung dengan server [EZCorp](https://discord.gg/ezcorp) untuk melihat bot-bot ini beraksi dan berinteraksi langsung dengan saya! Kami selalu menyambut developer baru dan siap membantu Anda belajar serta mengembangkan bot Discord.
 
-Dokumentasi lengkap dapat ditemukan [di sini](https://yourdocumentationurl.com).
+## Kontak dan Kolaborasi
 
-## 👥 Kontribusi
-
-Kami menyambut kontribusi dari siapa saja! Ikuti langkah-langkah berikut untuk mulai berkontribusi:
-
-1. Fork repositori ini
-2. Buat branch fitur Anda (`git checkout -b feature/fiturHebat`)
-3. Commit perubahan Anda (`git commit -m 'Menambahkan fitur hebat'`)
-4. Push ke branch (`git push origin feature/fiturHebat`)
-5. Buat Pull Request
-
-## 📬 Kontak
-
-Jika Anda memiliki pertanyaan atau ide, jangan ragu untuk menghubungi kami:
-
-- **Email**: contact@area51ezcorp.com
-- **Twitter**: [@Area51Ezcorp](https://twitter.com/area51ezcorp)
-
-## 🌟 Dukungan
-
-Jika Anda menyukai proyek ini, jangan lupa memberi ⭐️ bintang pada repositori ini dan ikuti [akun GitHub kami](https://github.com/yourusername) untuk lebih banyak proyek menarik!
+Jika tertarik untuk berkolaborasi atau memiliki pertanyaan, Anda dapat menghubungi saya di Discord (`khaivanhoutenn#0000`) atau langsung bergabung dalam server kami.
 
 ---
 
-Terima kasih sudah mengunjungi! Bersiaplah untuk petualangan yang tiada duanya di **Area 51 Ezcorp**! 🛸
+Terima kasih telah mengunjungi halaman ini! Jangan lupa memberikan bintang ⭐ pada repository ini jika menurut Anda membantu. Happy coding! 🚀
