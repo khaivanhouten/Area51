@@ -15,6 +15,7 @@ Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai be
   - Giveaway Flash
   - Giveaway Split Steal
   - Giveaway Acak
+  - Giveaway Bomb
 
 - **Mini Games**:
   - Qiuqiu (main rame-rame)
@@ -23,9 +24,13 @@ Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai be
   - Ular Tangga (main rame-rame)
   - Cerdas Cermat (main rame-rame)
   - Cari Angka (main rame-rame)
-  - Tebak Pikiran (solo)
   - Hunger Games (main rame-rame)
   - Sambung Kata (main rame-rame)
+  - Tebak Pikiran (solo)
+ 
+  - **Chat Ai versi ezcorp**
+  - CHAT BOT AI support (ChatGPT 4, llama 3.1 405b, gemini)
+  -  IMAGE GENERATOR support (DALL-E 3)
 
 - **Moderator**:
   - Kick / Ban
