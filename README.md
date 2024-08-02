@@ -6,7 +6,7 @@ Hai! Nama saya Khaivanhouten, seorang developer bot Discord dengan username Disc
 
 ## Bot EZCorp Official
 
-[![EZCorp Official](https://via.placeholder.com/150)](https://discord.gg/ezcorp)
+[![EZCorp Official](https://cdn.discordapp.com/attachments/1237248140126457977/1268780153614368892/Screenshot_20240802-105909.jpg?ex=66adab19&is=66ac5999&hm=49526c90803706e25f4ecb81aec05e29d49c294e3f5670593f4332ad683760ee&)](https://discord.gg/ezcorp)
 
 Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai berikut:
 
