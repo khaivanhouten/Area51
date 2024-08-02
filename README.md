@@ -6,7 +6,7 @@ Hai! Nama saya Khaivanhouten, seorang developer bot Discord dengan username Disc
 
 ## Bot EZCorp Official
 
-[![EZCorp Official](https://cdn.discordapp.com/attachments/1237248140126457977/1268780153614368892/Screenshot_20240802-105909.jpg?ex=66adab19&is=66ac5999&hm=49526c90803706e25f4ecb81aec05e29d49c294e3f5670593f4332ad683760ee&)](https://discord.gg/ezcorp)
+[![EZCorp Official](https://cdn.discordapp.com/attachments/1237248140126457977/1268780535644164227/Screenshot_20240802-110044.jpg?ex=66adab74&is=66ac59f4&hm=e82c86ce2b4667ea788252c731c9c5f18250ccd200aa99eb8c84f1f885408b0b&)](https://discord.gg/ezcorp)
 
 Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai berikut:
 
@@ -28,7 +28,7 @@ Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai be
   - Sambung Kata (main rame-rame)
   - Tebak Pikiran (solo)
  
-  - **Chat Ai versi ezcorp**
+- **Chat Ai versi ezcorp**
   - CHAT BOT AI support (ChatGPT 4, llama 3.1 405b, gemini)
   -  IMAGE GENERATOR support (DALL-E 3)
 
@@ -38,15 +38,15 @@ Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai be
 
 ## Bot Arace
 
-[![Arace](https://via.placeholder.com/150)](https://discord.gg/ezcorp)
+[![Arace](https://cdn.discordapp.com/attachments/1237248140126457977/1268783460189737063/Screenshot_20240802-111104.jpg?ex=66adae2d&is=66ac5cad&hm=d5fbf8793245d719b5c6a232dd69e19b9acb8b0ae669b62cc29aa483c8eeb356&)](https://discord.gg/ezcorp)
 
 Bot ini khusus dikembangkan untuk permainan balapan hewan. Berikut ini contoh gambarnya:
 
-![Racing Example](https://via.placeholder.com/250)
+![Racing Example](https://cdn.discordapp.com/attachments/1218586957425410112/1268783868614414397/Screenshot_20240802-111357.jpg?ex=66adae8f&is=66ac5d0f&hm=e855c6906d67b29855876f1ab9dc82de8db94884553f8c7a1f8a7e676294fb20&)
 
-## Bergabung dengan Kami
+## Join Guild Server
 
-Jangan ragu untuk bergabung dengan server [EZCorp](https://discord.gg/ezcorp) untuk melihat bot-bot ini beraksi dan berinteraksi langsung dengan saya! Kami selalu menyambut developer baru dan siap membantu Anda belajar serta mengembangkan bot Discord.
+gass gabung server [EZCorp](https://discord.gg/ezcorp).
 
 ## Kontak dan Kolaborasi
 
